@@ -8,8 +8,11 @@ Sentiment classification is a common task in NLP that involves determining the s
 
 ## Features
 Implementation of  deep learning architecture for sentiment classification.
+
 Preprocessing techniques such as tokenization, padding, and embedding.
+
 Training and evaluation of the models using different sentiment datasets.
+
 Model performance analysis and comparison.
 
 ## Requirements
