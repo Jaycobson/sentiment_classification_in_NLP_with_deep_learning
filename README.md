@@ -14,7 +14,11 @@ Model performance analysis and comparison.
 
 ## Requirements
 Python 3.7 or above
+
 TensorFlow 2.x
+
 NumPy
+
 Pandas
+
 Matplotlib
